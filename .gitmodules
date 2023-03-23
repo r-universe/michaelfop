@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "covglasso"]
+	path = covglasso
+	url = https://github.com/cran/covglasso
+	shallow = true
+	registered = true
 [submodule "LCAvarsel"]
 	path = LCAvarsel
 	url = https://github.com/michaelfop/lcavarsel
