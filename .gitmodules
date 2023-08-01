@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "covglasso"]
-	path = covglasso
-	url = https://github.com/cran/covglasso
 [submodule "LCAvarsel"]
 	path = LCAvarsel
 	url = https://github.com/michaelfop/lcavarsel
+[submodule "covglasso"]
+	path = covglasso
+	url = https://github.com/cran/covglasso
